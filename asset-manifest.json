@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/brightonyoung/Rubi.Groovestatic/css/main.8c8b27cf.chunk.css",
+    "main.js": "/brightonyoung/Rubi.Groovestatic/js/main.10097fff.chunk.js",
+    "main.js.map": "/brightonyoung/Rubi.Groovestatic/js/main.10097fff.chunk.js.map",
+    "runtime-main.js": "/brightonyoung/Rubi.Groovestatic/js/runtime-main.66a67fde.js",
+    "runtime-main.js.map": "/brightonyoung/Rubi.Groovestatic/js/runtime-main.66a67fde.js.map",
+    "static/js/2.e011f8ce.chunk.js": "/brightonyoung/Rubi.Groovestatic/js/2.e011f8ce.chunk.js",
+    "static/js/2.e011f8ce.chunk.js.map": "/brightonyoung/Rubi.Groovestatic/js/2.e011f8ce.chunk.js.map",
+    "static/js/3.861e76e6.chunk.js": "/brightonyoung/Rubi.Groovestatic/js/3.861e76e6.chunk.js",
+    "static/js/3.861e76e6.chunk.js.map": "/brightonyoung/Rubi.Groovestatic/js/3.861e76e6.chunk.js.map",
+    "index.html": "/brightonyoung/Rubi.Grooveindex.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/brightonyoung/Rubi.Groovestatic/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.e011f8ce.chunk.js.LICENSE.txt": "/brightonyoung/Rubi.Groovestatic/js/2.e011f8ce.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/brightonyoung/Rubi.Groovestatic/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.66a67fde.js",
+    "static/js/2.e011f8ce.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.10097fff.chunk.js"
+  ]
+}
